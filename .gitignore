@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+static
+media
+db.sqlite3
+env
+coolsite_cache
