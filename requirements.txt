@@ -47,5 +47,5 @@ telebot==0.0.5
 typing_extensions==4.9.0
 uritemplate==4.1.1
 urllib3==2.2.0
-vboxapi==1.0
+#vboxapi==1.0
 watchdog==6.0.0
